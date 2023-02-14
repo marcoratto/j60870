@@ -1,0 +1,10 @@
+Export-Package=org.openmuc.j60870.app;version\="1.5.0";uses\:\="org.openmuc.j60870",org.openmuc.j60870.internal.cli;version\="1.5.0"
+Bundle-ManifestVersion=2
+Bundle-SymbolicName=org.openmuc.cli-app
+Bundle-Version=1.5.0
+Created-By=11.0.15 (Private Build)
+Bnd-LastModified=1659452842259
+Bundle-Name=cli-app
+Import-Package=org.openmuc.j60870;version\="[1.5,2)",org.openmuc.j60870.ie;version\="[1.5,2)",org.openmuc.j60870.internal.cli;version\="[1.5,2)"
+Tool=Bnd-3.4.0.201707252008
+Require-Capability=osgi.ee;filter\:\="(&(osgi.ee\=JavaSE)(version\=1.8))"

@@ -1,0 +1,8 @@
+-Xdoclint:none '-quiet'
+-classpath '/home/dzimmerm/git/j60870/cli-app/build/classes/java/main:/home/dzimmerm/git/j60870/cli-app/build/resources/main:/home/dzimmerm/git/j60870/build/libs/j60870-1.5.0.jar'
+-d '/home/dzimmerm/git/j60870/cli-app/build/docs/javadoc'
+-doctitle 'cli-app 1.5.0 API'
+-quiet 
+-windowtitle 'cli-app 1.5.0 API'
+'/home/dzimmerm/git/j60870/cli-app/src/main/java/org/openmuc/j60870/app/SampleServer.java'
+'/home/dzimmerm/git/j60870/cli-app/src/main/java/org/openmuc/j60870/app/ConsoleClient.java'

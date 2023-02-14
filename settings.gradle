@@ -1,0 +1,3 @@
+rootProject.name = 'j60870'
+
+include 'cli-app'
